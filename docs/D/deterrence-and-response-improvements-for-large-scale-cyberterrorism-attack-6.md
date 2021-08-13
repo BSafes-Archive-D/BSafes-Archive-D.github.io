@@ -2,7 +2,7 @@
 layout: default
 title: References
 parent: § Deterrence and Response Improvements for a Large-Scale Cyberterrorism Attack  
-grand_parent: Cybercrime 
+grand_parent: D 
 nav_order: 60 
 ---
 <style>

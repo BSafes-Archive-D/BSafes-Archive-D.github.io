@@ -2,7 +2,7 @@
 layout: default
 title: Appendix A - Interview Protocol
 parent: § Deterrence and Response Improvements for a Large-Scale Cyberterrorism Attack  
-grand_parent: Cybercrime 
+grand_parent: D 
 nav_order: 70 
 ---
 <style>
